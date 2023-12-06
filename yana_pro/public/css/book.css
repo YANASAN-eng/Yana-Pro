@@ -1,0 +1,61 @@
+.main{
+    height: 100%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.main_top{
+    height: 30%;
+    width: 100%;
+}
+.main_bottom{
+    height: 70%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-top: black 3px solid;
+}
+.left_side{
+    height: 100%;
+    width: 20%;
+    border-right: black 3px solid
+}
+.center_side{
+    height: 100%;
+    width: 60%;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.row{
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    padding-top: 30px;
+    width: 30%;
+    background-color: gray;
+    text-align: center;
+}
+.item_top{
+    height: 70%;
+}
+.image_of_book{
+    height: 100%;
+}
+.gap{
+    height:10%;
+}
+.item_button{
+    height: 20%;
+}
+.name{
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+}
+.right_side{
+    height: 100%;
+    width: 20%;
+    border-left: black 3px solid
+}
